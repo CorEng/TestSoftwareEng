@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='Test',
+setup(name='Test2',
       version='1.0',
       description='Test module that returns system information',
       author='Cormac English',
