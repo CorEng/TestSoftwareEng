@@ -7,7 +7,7 @@ setup(name='Test',
       description='Test module that returns system information',
       author='Cormac English',
       author_email='cormacenglish@gmail.com',
-      packages=['Package']
+      packages=['IdChecker']
      )
 
 #Checkin this works
