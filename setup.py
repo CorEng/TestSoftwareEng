@@ -7,7 +7,7 @@ setup(name='Test2',
       description='Test module that returns system information',
       author='Cormac English',
       author_email='cormacenglish@gmail.com',
-      packages=['Package']
+      packages=['Lab1Test']
      )
 
 #Checkin this works
