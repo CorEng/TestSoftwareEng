@@ -1,6 +1,1 @@
-import platform
-
-details = platform.uname()
-print(details)
-
-#This is a change
+from .checker import check
